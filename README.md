@@ -1,5 +1,15 @@
-### Hi there 👋
+## Hi there 👋
+## I am Ian
+### I am a medical doctor, aspiring data scientist and programmer
 
+- 🌱 I’m currently interested in and learning machine learning
+- 🔭 I’m currently working on 
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ih371990/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ih371990/" height="30" width="40" /></a>
+  
 <!--
 **ih371990/ih371990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
