@@ -1,9 +1,10 @@
 ## Hi there 👋
 ## I am Ian
-### I am a medical doctor, aspiring data scientist and programmer
+### I am a medical doctor, aspiring data scientist
 
 - 🌱 I’m currently interested in and learning machine learning
-- 🔭 I’m currently working on 
+  
+- Reach me at: **ih371990@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
