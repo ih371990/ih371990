@@ -1,5 +1,4 @@
-## Hi there 👋
-## I am Ian
+## Hi there 👋 I'm Ian
 ### I am a medical doctor, aspiring data scientist
 
 - 🌱 I’m currently interested in and learning machine learning
