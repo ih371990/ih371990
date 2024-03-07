@@ -2,7 +2,8 @@
 ### I am a medical doctor, aspiring data scientist
 
 - 🌱 I’m currently interested in and learning machine learning
-  
+
+- Visit my website at: <a href="https://ih371990.github.io/ih371990/">https://ih371990.github.io/ih371990/</a>
 - Reach me at: **ih371990@gmail.com**
 
 
